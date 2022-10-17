@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Kenzie Academy**
+- 🔭 I’m currently working on **Canada**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET, AngularJS and ReactJS**
 
 - 👯 I’m looking to collaborate on **NodeJS projects**
 
-- 🤝 I’m looking for help with **New knowledge in .net**
+- 🤝 I’m looking for help with **New knowledge in .net, Angular and React**
 
 - 👨‍💻 All of my projects are available at [www.linkedin/in/alexandretrieste](www.linkedin/in/alexandretrieste)
 
