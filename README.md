@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Canada**
+- 🔭 I’m currently working on **Brazil**
 
-- 🌱 I’m currently learning **.NET, AngularJS and ReactJS**
+- 🌱 I’m currently learning **AngularJS**
 
 - 👯 I’m looking to collaborate on **NodeJS projects**
 
-- 🤝 I’m looking for help with **New knowledge in .net, Angular and React**
+- 🤝 I’m looking for help with **New knowledge in Angular**
 
 - 👨‍💻 All of my projects are available at [www.linkedin/in/alexandretrieste](www.linkedin/in/alexandretrieste)
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on [LinkedIn](www.linkedin/in/alexandretrieste)
 
 - 💬 Ask me about **NodeJS, Javascript and JAVA**
 
 - 📫 How to reach me **Alexandre.trieste@gmail.com**
 
-- 📄 Know about my experiences [I have 4 years of experience with nodeJS, Javascript, JAVA, microservices...](I have 4 years of experience with nodeJS, Javascript, JAVA, microservices...)
+- 📄 Know about my experiences I have 4 years of experience with nodeJS, Javascript, JAVA (JPA, HIBERNATE, SPRINGBOOT), microservices...
 
 - ⚡ Fun fact **I always wanted to be a software engineer, but only as an adult did I manage, for financial reasons.**
 
