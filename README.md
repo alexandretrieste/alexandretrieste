@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
--🫸🫷🏼 I’m looking to collaborate on **NodeJS projects**
+- 🫸🫷🏼 I’m looking to collaborate on **NodeJS projects**
 
 - 🤝 I’m looking for help with **New knowledge in Angular**
 
