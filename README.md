@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Brazil**
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **NodeJS projects**
+-🫸🫷🏼 I’m looking to collaborate on **NodeJS projects**
 
 - 🤝 I’m looking for help with **New knowledge in Angular**
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **NodeJS, Javascript and JAVA**
 
-- 📫 How to reach me **Alexandre.trieste@gmail.com**
+- 📫 How to reach me **alexandre.trieste@gmail.com**
 
 - 📄 Know about my experiences I have 4 years of experience with nodeJS, Javascript, JAVA (JPA, HIBERNATE, SPRINGBOOT), microservices...
 
