@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **alexandre.trieste@gmail.com**
 
-- 📄 Know about my experiences I have 4 years of experience with nodeJS, Javascript, JAVA (JPA, HIBERNATE, SPRINGBOOT), microservices...
+- 📄 Know about my experiences I have 4 years of experience with nodeJS, Javascript, JAVA (JPA, HIBERNATE, SPRINGBOOT), microservices....
 
 - ⚡ Fun fact **I always wanted to be a software engineer, but only as an adult did I manage, for financial reasons.**
 
